@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm HEMANTH BYLUPUDI</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthbylupudi&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthbylupudi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hemanthbylupudi" target="blank"><img src="https://img.shields.io/twitter/follow/hemanthbylupudi?logo=twitter&style=for-the-badge" alt="hemanthbylupudi" /></a> </p>
 
