@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hemanthbylupudi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QJ2kY9R1LD3q5NAlT-deyuzuDELb2qHJ/view?usp=drive_link](https://drive.google.com/file/d/1QJ2kY9R1LD3q5NAlT-deyuzuDELb2qHJ/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QJ2kY9R1LD3q5NAlT-deyuzuDELb2qHJ/view?usp=drive_link](https://drive.google.com/file/d/1yvKG8VUgI1HaUhz-1lpS47KQt3KEzy_G/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
